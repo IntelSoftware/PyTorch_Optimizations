@@ -21,5 +21,15 @@ Describe how  Intel SIMD and Cache optimization provided by Intel oneMKL-DNN as 
 
 This workshop is designed to be used on the DevCloud and includes details on submitting batch jobs on the DevCloud environment.
 
-License
+## Survey
+
+Please fill out our survey to let us know hwo we can imporve or how it might impact your developer skills
+
+https://intel.az1.qualtrics.com/jfe/form/SV_9uHKSYFaiC9Xjeu
+
+![Survey.jpg](Survey.jpg)
+
+
+
+## License
 Code samples are licensed under the MIT license. See License.txt for details. Third party program Licenses can be found here: third-party-programs.txt
